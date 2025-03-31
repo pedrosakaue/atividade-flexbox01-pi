@@ -1,1 +1,1 @@
-# atividade-flexbox01-pi
+Atividade 02 - Flexbox01 - Aula de CSS
